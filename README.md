@@ -22,7 +22,7 @@ Grâce à l’utilisation de structures de données et d’algorithmes de graphe
 -Tests unitaires des fonctions
 
 # Auteurs
--Solène Bourg 
--Amirtavarsini Jegathasan
+*Solène Bourg 
+*Amirtavarsini Jegathasan
 
 
